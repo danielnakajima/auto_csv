@@ -1,5 +1,5 @@
 Empresa,Nome,Usuario Okta,FDS ou Manutencao,AODOCS Aprovado,Termo de Responsabilidade,Acesso Dentro do Limite,Status,Email
-PB Solu??es,Paulo de Oliveira Braz,bp_paulo deoliveira,No,No,No,No,N?o Permitido,
+PB Solucoes,Paulo de Oliveira Braz,bp_paulo deoliveira,No,No,No,No,N?o Permitido,
 Tetrapak,Fernanda S Soares,bp_fernanda S Soares,No,No,No,No,N?o Permitido,
 VP Automa??o,Bruno Caro,bp_bruno caro,No,No,No,No,N?o Permitido,bp_bruno_caro@colpal.com
 VP Automa??o,Danilo Petri,bp_danilo petri,No,No,No,No,N?o Permitido,bp_danilo_petri@colpal.com
@@ -23,4 +23,4 @@ WCA,Willy M moreira,bp_willy m moreira,No,No,No,No,N?o Permitido,bp_willy_m_more
 Sbuild,Augusto Lira,bp_augusto lira,No,No,No,No,N?o Permitido,bp_augusto_lira@colpal.com
 Sbuild,Matheus N Nunes,bp_matheus n nunes,No,No,No,No,N?o Permitido,bp_matheus_n_nunes@colpal.com
 Sbuild,Rubens Ferreira Martins Neto,bp_rubens ferreiramartinsneto,No,No,No,No,N?o Permitido,bp_rubens_ferreiramartinsneto@colpal.com
-,,,,,,,N?o Permitido,victor_luiz@colpal.com
+,,,Yes,Yes,Yes,Yes,Permitido,victor_luiz@colpal.com
